@@ -14,8 +14,8 @@ I am a civil engeneer and currently a student at Ironhack!
 
 ## Play now!
 
-You can play this game [on this link!](https://) github link
+You can play this game [on this link!](https://guilhermecandeia.github.io/project1-snake/) github link
 
 ## Find out more about this project
 
-You can find out more [here!](https://) docs presentation
+You can find out more [here!](https://docs.google.com/presentation/d/1V3k20i6eh4EblWk9Gf3l5C_jC7mZiq7ODLgp78cwJDo/edit?usp=sharing) docs presentation

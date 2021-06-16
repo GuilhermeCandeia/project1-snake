@@ -95,7 +95,7 @@ function isGameOver() {
     ctx.fillStyle = "red";
     ctx.font = "50px Verdana";
 
-    ctx.fillText("YOU DIED", canvas.width / 6.8, canvas.height / 2);
+    ctx.fillText("YOU DIED", canvas.width / 6.5, canvas.height / 2);
   }
   return gameOver;
 }
